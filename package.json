@@ -1,0 +1,22 @@
+{
+  "name": "lavagnaf31",
+  "version": "1.0.0",
+  "description": "Board for F31team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaldenS19/LavagnaF31.git"
+  },
+  "keywords": [
+    "Board"
+  ],
+  "author": "Silvio Amoroso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaldenS19/LavagnaF31/issues"
+  },
+  "homepage": "https://github.com/WaldenS19/LavagnaF31#readme"
+}
